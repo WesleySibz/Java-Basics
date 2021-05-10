@@ -2,8 +2,8 @@
 
 ## 1/14g
 
-Hello World
-/tVariables;
+Hello World;
+Variables;
 Data Types;
 Operators;
 Input/Output;
