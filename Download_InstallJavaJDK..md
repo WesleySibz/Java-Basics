@@ -1,4 +1,5 @@
 # install JavaJDK
+
 Step 1) Go to link. Click on JDK Download for Java download JDK 8.
 https://www.oracle.com/java/technologies/downloads/
 Step 2) Next, Accept License Agreement. Download Java 8 JDK for your version 32 bit or JDK download 64 bit.
