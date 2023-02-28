@@ -32,5 +32,31 @@ public class Main {
 
         String txt3 = "Please locate where 'locate' occurs!";
         System.out.println(txt3.indexOf("locate")); // Outputs 7
+
+        //The + operator can be used between strings to combine them. This is called concatenation:
+
+        String firstName = "John";
+        String lastName = "Doe";
+        System.out.println(firstName + " " + lastName);
+
+        //You can also use the concat() method to concatenate two strings:
+
+        String firstName1 = "John ";
+        String lastName1 = "Doe";
+        System.out.println(firstName1.concat(lastName1));
+
+        /**Strings - Special Characters
+         Because strings must be written within quotes,
+         Java will misunderstand this string,
+         and generate an error:*/
+
+        //String txt5 = "We are the so-called "Vikings" from the north.";
+
+        /**The solution to avoid this problem, is to use the backslash escape character.
+
+         The backslash (\) escape character turns special characters into string characters:*/
+        String txt5 = "We are the so-called \"Vikings\" from the north.";
+        //The sequence \'  inserts a single quote in a string:
+        String txt6 = "It\'s alright.";
     }
 }
