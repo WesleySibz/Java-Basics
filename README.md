@@ -1,6 +1,4 @@
-# Java Basics
-
-## 3/14g
+# Java Basics [Completed]
 
 Hello World;
 Variables;
@@ -27,3 +25,29 @@ this keyword;
 final keyword;
 Recursion;
 instance of Operator;
+Classes and Objects
+Class Methods
+Constructors
+Packages/API
+Inheritance
+Polymorphism
+Inner classes
+Abrstraction
+Interface
+Enums
+User Input
+Date
+Array List
+Linked List
+Hash maps
+Hash set
+Iterator
+Wrapper classes
+Exceptions
+Regular Expressions
+Threads
+Lambda
+File Handling
+Create and write files
+Read files
+Delete files
